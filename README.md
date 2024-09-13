@@ -63,4 +63,6 @@ Projede farklı hibrit modellerin performansı değerlendirilmiştir. Aşağıda
 
 Performans sonuçları, hibrit modellerin her birinin güçlü yönlerini ve sınırlamalarını anlamak için kıyaslanmıştır.
 
+## Katkı Sağlama
 
+Katkıda bulunmak için lütfen bir pull request gönderin. Katkıda bulunmak isteyenler için kurulum ve test sürecini kolaylaştırmak amacıyla daha fazla bilgi sağlanabilir.
